@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Manglam
 
-<!--
-**manglamtiwari/manglamtiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Full-Stack Developer | 🧠 DSA Enthusiast | 🚀 Automation Lover
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer focused on building efficient, scalable, and automation-driven workflows. With hands-on experience in browser automation, Chrome extension development, and AI integration, I thrive on solving real-world problems through clean and modular code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EADFF?logo=playwright&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?logo=google-chrome&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+## 📂 Projects
+- 🔗 [DeepSeek-powered Code Viewer](https://github.com/yourusername/deepseek-viewer)
+- 🧪 [Playwright Automation Suite](https://github.com/yourusername/playwright-suite)
+- 🧠 [AI Chat Integration via OpenRouter](https://github.com/yourusername/openrouter-chat)
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/manglamiam)
+- 📧 Email: manglamtiwari1@gmail.com
