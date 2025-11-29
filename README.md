@@ -15,9 +15,7 @@ I'm a passionate developer focused on building efficient, scalable, and automati
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ## 📂 Projects
-- 🔗 [DeepSeek-powered Code Viewer](https://github.com/yourusername/deepseek-viewer)
-- 🧪 [Playwright Automation Suite](https://github.com/yourusername/playwright-suite)
-- 🧠 [AI Chat Integration via OpenRouter](https://github.com/yourusername/openrouter-chat)
+- [Photography service provider web app](https://github.com/manglamtiwari/LakshayGuptaPhotography)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/manglamiam)
